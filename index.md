@@ -2,7 +2,8 @@
 ### DERZEIT EREILEN UNS TECHNISCHE PROBLEME.
 ## Wir haben folgende Kontaktwege für Sie eingerichtet:
 ## E-Mail-Adresse: goslar.backup@gmail.com
-## Sie können uns anrufen unter 05324 69 38 590 - In Notfällen zusätzlich unter 05324 69 38 597.
+## Sie können uns anrufen unter 05324 69 38 590.
+## In Notfällen zusätzlich unter 05324 69 38 597.
 ## Faxe empfangen wir unter 05324 69 38 598.
 Sie können unsere [Statusseite](https://meteorinfo.github.io/isitdown/) für weitergehende Informationen besuchen.
 
@@ -10,6 +11,7 @@ Sie können unsere [Statusseite](https://meteorinfo.github.io/isitdown/) für we
 ### WE ARE EXPERIENCING TECHNICAL DIFFICULTIES.
 ## We provide the following contact:
 ## Please use our backup mail adress: goslar.backup@gmail.com
-## You can call +49 (0)5324 69 38 590 - If it's an emergency try +49 (0)5324 69 38 597 aswell.
-## You can also send fax to +49 (0)5324 69 38 598
+## You can call +49 (0)5324 69 38 590
+## If it's an emergency try +49 (0)5324 69 38 597 aswell.
+## You can also send fax to +49 (0)5324 69 38 598.
 You can see our [status page](https://pages.github.com/) for further information.
