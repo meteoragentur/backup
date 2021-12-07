@@ -1,37 +1,15 @@
-## Meteor Prod. Backup
+![image](https://user-images.githubusercontent.com/88624783/144945557-367a9b1f-9223-4be2-9be7-07ebfbaa2722.png)
+### DERZEIT EREILEN UNS TECHNISCHE PROBLEME.
+## Wir haben folgende Kontaktwege für Sie eingerichtet:
+## E-Mail-Adresse: goslar.backup@gmail.com
+## Telefon: 05324 69 38 590 (im Notfall Bandansage hören!)
+## Fax: 05324 69 38 598
+Sie können unsere [Statusseite](https://meteorinfo.github.io/isitdown/) für weitergehende Informationen besuchen.
 
-You can use the [editor on GitHub](https://github.com/meteoragentur/backup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meteoragentur/backup/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/88624783/144945507-dc22409a-083f-4f30-9ae0-7ecd0a6bf7f0.png)
+### WE ARE EXPERIENCING TECHNICAL DIFFICULTIES.
+## We provide the following contact:
+## Please use our backup mail adress: goslar.backup@gmail.com
+## You can call: +49 (0)5324 69 38 590 - If it's an emergency try +49 (0)5324 69 38 597
+## You can also send fax: +49 (0)5324 69 38 598
+You can see our [status page](https://pages.github.com/) for further information.
